@@ -1,0 +1,13 @@
+sudo su 
+mkdir /scripts2
+cd /scripts2
+touch /script-iac2.sh
+chmod +x script-iac2.sh
+nano script-iac2.sh
+
+
+Após editar script
+salva o script
+sai da edição
+e executa o comando
+  ./script-iac2.sh
